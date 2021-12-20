@@ -1,5 +1,8 @@
 # Lecture-Math
 
+//EXERCISE
+
+Write a program that asks the user to enter a number and print the square and cube root
 
     #include <iostream>
     using namespace std;
